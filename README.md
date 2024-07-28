@@ -1,4 +1,4 @@
-![](https://github.com/KenAli77/ExpenseTracker/blob/master/1.png)
+
 
 # My Expense Tracker
 
